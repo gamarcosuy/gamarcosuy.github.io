@@ -1,3 +1,4 @@
+alert("¡Hola! Esta página fue creada en ingles asi que para una mejor experiencia no traduzca con Google la misma al español.¡Gracias!");
 const tabs = document.querySelectorAll('[data-target]'),
       tabContents = document.querySelectorAll('[data-content]')
 
